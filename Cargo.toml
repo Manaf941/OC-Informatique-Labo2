@@ -1,0 +1,9 @@
+[package]
+name = "exo4"
+version = "0.1.0"
+edition = "2021"
+authors = ["Manaf <manaf@2221.ch>"]
+
+
+[dependencies]
+rand = "0.8.5"
